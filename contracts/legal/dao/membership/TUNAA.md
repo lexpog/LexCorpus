@@ -1,4 +1,4 @@
-<h1>**Trustless Unincorporated Nonprofit Association Agreement (TUNAA)**</h1>
+<h1>Trustless Unincorporated Nonprofit Association Agreement (TUNAA)</h1>
 
 **Originally Adopted as on [[Adoption Date: Date]]**
 
